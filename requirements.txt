@@ -1,0 +1,6 @@
+pandas
+numpy
+tensorflow
+matplotlib
+skimage
+pil
