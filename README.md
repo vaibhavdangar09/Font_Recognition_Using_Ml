@@ -2,6 +2,12 @@
 
 ![image](https://github.com/vaibhavdangar09/Font_Recognition_Using_Ml/assets/85430510/2e2c5115-f394-4981-b2d6-668dd41e051e)
 
+
+# Steps to run file:
+1. Run Utils.py file
+2. Run training file
+3. Run test file 
+
 The Font Recognition project employs a combination of Convolutional Neural Networks (CNNs) and Long Short-Term Memory Recurrent Neural Networks (LSTM RNNs) to recognize fonts from images. This hybrid architecture is chosen for its ability to capture both spatial features from images (via CNNs) and temporal dependencies within sequences of features (via LSTM RNNs), making it well-suited for the complex task of font recognition.
 
 The project workflow includes the following stages:
