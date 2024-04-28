@@ -3,6 +3,9 @@
 ![image](https://github.com/vaibhavdangar09/Font_Recognition_Using_Ml/assets/85430510/2e2c5115-f394-4981-b2d6-668dd41e051e)
 
 
+# Dataset Link : 
+## Train Data: https://drive.google.com/drive/folders/1R_P6sqZenyzIw7i5-Ue-Zu8YScn3L_TI?usp=sharing 
+
 # Steps to run file:
 1. Run Utils.py file
 2. Run training file
